@@ -1,2 +1,1 @@
-# banking-statment-consolidate
-Automated bot to analyse and consolidate banking statments.
+This is a development branch, for developing app using Python.
