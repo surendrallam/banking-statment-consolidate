@@ -1,2 +1,2 @@
 # banking-statment-consolidate
-To consolidate banking statments
+Automated bot to analyse and consolidate banking statments.
